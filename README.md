@@ -11,7 +11,7 @@
 - 🧦 &nbsp; I love working with [GSAP](https://greensock.com/gsap/) and creating cool animations
 - 🎨 &nbsp; Sometimes I come up with great designs and UX/UI solutions
 - 👾 &nbsp; Fun fact: Equal is not always equal in JavaScript
-- 🔮 &nbsp; The future is [JAMStack](https://jamstack.org/)
+- 🔮 &nbsp; The future is [Jamstack](https://jamstack.org/)
 - 📫 &nbsp; How to reach me: hey@elenabravo.com
 - 🌐 &nbsp; Check out my [website](https://elenabravo.com/)
 - 💬 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/elena-bravo/)
