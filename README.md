@@ -5,17 +5,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-bravo/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spoti.fi/34t4OZJ)
 
+---
+
 ### More About Me:
 
 - 🛠 &nbsp; I’m currently working as a lead senior front-end developer at [Samy](https://samy.com/)
 - 🧦 &nbsp; I love working with [GSAP](https://greensock.com/gsap/) and creating cool animations
 - 🪐 &nbsp; I've also started playing with WebGLRenderers like [PixiJS](https://pixijs.com/) and [Three.js](https://threejs.org/)
 - 🎨 &nbsp; Sometimes I come up with great designs and UX/UI solutions
-- 👾 &nbsp; Fun fact: Equal is not always equal in JavaScript
 - 🚀 &nbsp; [Jamstack](https://jamstack.org/) rules
 - 📫 &nbsp; How to reach me: hey@elenabravo.com
 - 🌐 &nbsp; Check out my [website](https://elenabravo.com/)
 - 💬 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/elena-bravo/)
+
+---
 
 ### My Absolute Favorites:
 
@@ -24,7 +27,7 @@
 - 🎧 &nbsp; Listening to music and discovering new bands
 - 🎸 &nbsp; Playing guitar
 
-</br>
+---
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
