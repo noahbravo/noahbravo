@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hi there! I'm Elena Bravo</h1>
+<h1 align="left" id="macropower-title">:wave: Hi there! I'm Noah Bravo</h1>
 <h3 align="left">I am a multidisciplinary front-end developer and digital designer.</h3>
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://elenabravo.com/)
