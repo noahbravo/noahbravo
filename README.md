@@ -14,9 +14,9 @@
 - 🪐 &nbsp; I've also started playing with WebGLRenderers like [PixiJS](https://pixijs.com/) and [Three.js](https://threejs.org/)
 - 🎨 &nbsp; Sometimes I come up with great designs and UX/UI solutions
 - 🚀 &nbsp; [Jamstack](https://jamstack.org/) rules
-- 📫 &nbsp; How to reach me: hey@elenabravo.com
-- 🌐 &nbsp; Check out my [website](https://elenabravo.com/)
-- 💬 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/elena-bravo/)
+- 📫 &nbsp; How to reach me: hola@noahbravo.dev
+- 🌐 &nbsp; Check out my [website](https://noahbravo.dev/)
+- 💬 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/noah-bravo/)
 
 ---
 
