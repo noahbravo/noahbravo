@@ -9,11 +9,11 @@
 
 ### More About Me:
 
-- 🛠 &nbsp; I’m currently working as a lead senior front-end developer at [Samy](https://samy.com/)
-- 🧦 &nbsp; I love working with [GSAP](https://greensock.com/gsap/) and creating cool animations
-- 🪐 &nbsp; I've also started playing with WebGLRenderers like [PixiJS](https://pixijs.com/) and [Three.js](https://threejs.org/)
+- 🛠 &nbsp; I'm currently working as a lead senior front-end developer at [Samy](https://samy.com/)
+- 🧦 &nbsp; I love working with [GSAP](https://greensock.com/gsap/) and creating smooth, immersive animations
+- 🪐 &nbsp; Lately, I've been exploring WebGL with [Three.js](https://threejs.org/) and pushing creative interfaces
+- 🧱 &nbsp; I'm passionate about front-end architecture — building scalable, maintainable and performant systems
 - 🎨 &nbsp; Sometimes I come up with great designs and UX/UI solutions
-- 🚀 &nbsp; [Jamstack](https://jamstack.org/) rules
 - 📫 &nbsp; How to reach me: hola@noahbravo.dev
 - 🌐 &nbsp; Check out my [website](https://noahbravo.dev/)
 - 💬 &nbsp; Connect with me on [LinkedIn](https://www.linkedin.com/in/noah-bravo/)
