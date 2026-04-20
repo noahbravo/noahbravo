@@ -1,12 +1,11 @@
 <h1 align="left">Hey, I'm Noah 👋</h1>
 
 <p align="left">
-Frontend Engineer focused on building <b>scalable systems</b> and <b>creative interfaces</b>.
+Frontend Engineer focused on building <b>scalable systems</b> and <b>creative interfaces</b>, with a growing interest in backend and infrastructure.
 </p>
 
 <p align="left">
-I sit somewhere between <b>engineering</b>, <b>design</b> and <b>experimentation</b> — 
-working on products that are not only solid, but also feel good to use.
+I sit somewhere between <b>engineering</b>, <b>design</b> and <b>experimentation</b>, building products that are robust and actually fun to use.
 </p>
 
 ---
@@ -14,36 +13,36 @@ working on products that are not only solid, but also feel good to use.
 ### 🧠 What I do
 
 - 🧱 Frontend architecture & system design  
-- ⚡ Performance & scalability  
+- ⚡ Building for performance, scalability and reliability   
 - 🎞️ Creative development (animations, WebGL, interactions)  
-- 🧩 Bridging design and engineering  
+- 🧩 Bridging the gap between design and engineering  
 
 ---
 
 ### 🚧 Currently exploring
 
 - 🤖 AI + MCPs applied to creative workflows  
-- 🎧 Generative music & narrative-based playlists  
+- 🎧 Generative music & narrative-driven playlists  
 - 🪐 Advanced interfaces with Three.js  
-- 🌱 Open source contributions focused on frontend and accessibility  
+- 🌱 Contributing to open source (frontend & accessibility)
 ---
 
 ### 🛠️ Tech I enjoy working with
 
-`JavaScript` · `TypeScript` · `React` · `Node`  
-`Next.js` · `Vite` · `GSAP` · `Three.js`  
+`JavaScript` · `TypeScript` · `React` · `Next.js`  
+`Node` · `GSAP` · `Three.js`
+
+---
+
+### 🎧 Music & experiments
+
+Exploring the intersection between music, storytelling and code.
+
+Currently working on:
+- MCP Spotify → generating playlists from narratives
 
 ---
 
 ### 🌍 Find me here
 
-[Website](https://noahbravo.dev/) · 
-[LinkedIn](https://www.linkedin.com/in/noah-bravo/)  
-
----
-
-### ⚡ Fun facts
-
-- 🎸 I play guitar  
-- 🎧 Music is a big part of how I think and build  
-- 🧠 I enjoy complex systems more than simple UIs  
+[Website](https://noahbravo.dev/) · [LinkedIn](https://www.linkedin.com/in/noah-bravo/)
