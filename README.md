@@ -1,18 +1,15 @@
 <h1 align="left">Hey, I'm Noah 👋</h1>
 
 <p align="left">
-Frontend Engineer focused on building <b>scalable systems</b> and <b>creative interfaces</b>, with a growing interest in backend and infrastructure.
-</p>
-
-<p align="left">
-I sit somewhere between <b>engineering</b>, <b>design</b> and <b>experimentation</b>, building products that are robust and actually fun to use.
+Senior Frontend Engineer — architecture, creative development, and increasingly focused on product-driven engineering.
 </p>
 
 ---
 
 ### 🧠 What I do
 
-- 🧱 Frontend architecture & system design  
+- 🧱 Frontend architecture & system design
+- 👥 Technical leadership & mentoring
 - ⚡ Building for performance, scalability and reliability   
 - 🎞️ Creative development (animations, WebGL, interactions)  
 - 🧩 Bridging the gap between design and engineering  
@@ -21,16 +18,16 @@ I sit somewhere between <b>engineering</b>, <b>design</b> and <b>experimentation
 
 ### 🚧 Currently exploring
 
-- 🤖 AI + MCPs applied to creative workflows  
-- 🎧 Generative music & narrative-driven playlists  
+- 🤖 AI-assisted creative workflows (MCPs, generative tools)
+- 🎧 Generative music & narrative-driven playlists
 - 🪐 Advanced interfaces with Three.js  
 - 🌱 Contributing to open source (frontend & accessibility)
 ---
 
 ### 🛠️ Tech I enjoy working with
 
-`JavaScript` · `TypeScript` · `React` · `Next.js`  
-`Node` · `GSAP` · `Three.js`
+`JavaScript` · `TypeScript` · `React` · `Next.js` · `Node` · `GraphQL`  
+`Jest` · `Playwright` · `GSAP` · `Three.js` · `Storybook` · `Figma`
 
 ---
 
@@ -39,7 +36,7 @@ I sit somewhere between <b>engineering</b>, <b>design</b> and <b>experimentation
 Exploring the intersection between music, storytelling and code.
 
 Currently working on:
-- MCP Spotify → generating playlists from narratives
+- MCP Spotify → AI-assisted music supervision from narrative context
 
 ---
 
